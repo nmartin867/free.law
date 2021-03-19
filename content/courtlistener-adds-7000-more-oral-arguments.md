@@ -28,3 +28,4 @@ share, please [get in touch](https://www.courtlistener.com/contact/)!
 We're eager to hear from you and to build the largest collection of oral
 arguments that we can.
 
+^(Title|Date|Author|Tags|Slug|Status):\s(.*)$
