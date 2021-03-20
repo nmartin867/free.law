@@ -2,6 +2,7 @@ import * as React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import tw, { styled } from 'twin.macro'
+import Navbar from './navbar'
 
 const HeaderContainer = styled.div`
   background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
@@ -26,6 +27,7 @@ const Header = () => (
             <HeaderSubtitle>
                 Providing free access to primary legal materials, developing legal research tools, and supporting academic research on legal corpora.
             </HeaderSubtitle>
+            <Navbar />
         </HeaderInnerLayout>
     </HeaderContainer>
 )

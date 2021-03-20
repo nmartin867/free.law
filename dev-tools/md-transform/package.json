@@ -1,0 +1,8 @@
+{
+  "name": "md-transform",
+  "version": "1.0.0",
+  "description": "Import Pelican MD files to be consumed by GraphQL",
+  "main": "front-matter-transform.js",
+  "author": "Nick Martin",
+  "license": "ISC"
+}

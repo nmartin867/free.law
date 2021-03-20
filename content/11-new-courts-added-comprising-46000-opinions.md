@@ -38,4 +38,3 @@ automatically, usually within 30 minutes from when they are posted.
 
 We will continue adding more and more jurisdictions and opinions. This
 is only the beginning.
-
