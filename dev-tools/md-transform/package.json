@@ -4,5 +4,8 @@
   "description": "Import Pelican MD files to be consumed by GraphQL",
   "main": "front-matter-transform.js",
   "author": "Nick Martin",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
