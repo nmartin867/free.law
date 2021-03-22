@@ -1,7 +1,7 @@
 ---
 title: A Million Documents At Your Fingertips
-date: 2009-08-14 10:13
-tags: Announcements, RECAP, bulk data,
+date: "2009-08-14 10:13
+"tags: Announcements, RECAP, bulk data,
 slug: a-million-documents-at-your-fingertips
 status: published
 ---

@@ -1,7 +1,7 @@
 ---
 title: Senator Leahy Wants PACER Documents Back Online
-date: 2014-09-16 10:18
-author: Brian Carver
+date: "2014-09-16 10:18
+"author: Brian Carver
 tags: Announcements, Policy, RECAP
 slug: senator-leahy-wants-pacer-documents-back-online
 status: published

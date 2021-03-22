@@ -1,7 +1,7 @@
 ---
 title: Building a Citator on CourtListener
-date: 2012-05-11 13:54
-author: Michael Lissner
+date: "2012-05-11 13:54
+"author: Michael Lissner
 tags: Announcements, Bulk Data, Citator, CourtListener, Search, UC Berkeley School of Information
 slug: building-a-citator-on-courtlistener
 status: published

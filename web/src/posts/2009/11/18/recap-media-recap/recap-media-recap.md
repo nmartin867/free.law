@@ -1,7 +1,7 @@
 ---
 title: RECAP Media Recap
-date: 2009-11-18 17:32
-tags: RECAP, Press
+date: "2009-11-18 17:32
+"tags: RECAP, Press
 slug: recap-media-recap
 status: published
 ---

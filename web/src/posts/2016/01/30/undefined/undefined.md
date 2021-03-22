@@ -1,7 +1,7 @@
 ---
 title: Millions of New "Short Form" Case Names Now on CourtListener
-date: 2016-01-30 18:00:00
-author: Michael Lissner
+date: "2016-01-30 18:00:00
+"author: Michael Lissner
 tags: Announcements, API, Bulk Data, CourtListener, Data Wrangling, Juriscraper
 ---
 
@@ -52,7 +52,7 @@ repository](https://github.com/freelawproject/juriscraper/blob/master/lib/string
 [rt]: {filename}/courtlistener-will-now-send-alerts-in-real-time.md
 [feeds]: https://www.courtlistener.com/feeds/
 [donate]: {filename}/pages/donate.md
-[pp]: https://courtlistener.com/opinion/112786/planned-parenthood-of-southeastern-pa-v-casey/citation_id`, which contains the id of the old `Citation` objects.
+[pp]: https://courtlistener.com/opinion/112786/planned-parenthood-of-southeastern-pa-v-casey/tation_id`, which contains the id of the old `Citation` objects.
 
 The second big change is splitting `Document`s into `OpinionCluster`s and `Opinion`s. The way to think about this is that `Opinion` objects have the information that applies specifically to a dissent, concurrence, etc., such as the text of an opinion, the author or the judges that joined in the opinion. In general, it's a pretty simple object. `OpinionCluster` objects contain all the information that applies to the entire opinion like the date filed, any citations from West, Lexis or elsewhere, and pretty much everything else. As mentioned in [the announcement post][ann], this will make the API much more powerful.
 

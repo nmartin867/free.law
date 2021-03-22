@@ -1,7 +1,7 @@
 ---
 title: CourtListner's REST API Featured on Programmable Web
-date: 2013-12-13 07:00
-author: Brian Carver
+date: "2013-12-13 07:00
+"author: Brian Carver
 tags: API, CourtListener
 slug: courtlistners-rest-api-featured-on-programmable-web
 status: published

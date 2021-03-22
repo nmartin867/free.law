@@ -1,7 +1,7 @@
 ---
 title: Free Law Project Joins Free Access to Law Movement
-date: 2013-12-10 07:00
-author: Brian Carver
+date: "2013-12-10 07:00
+"author: Brian Carver
 tags: Announcements, Policy
 slug: free-law-project-joins-free-access-to-law-movement
 status: published

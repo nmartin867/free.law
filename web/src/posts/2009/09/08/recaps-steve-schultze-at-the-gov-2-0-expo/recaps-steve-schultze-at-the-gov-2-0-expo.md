@@ -1,7 +1,7 @@
 ---
 title: RECAP's Steve Schultze at the Gov 2.0 Expo
-date: 2009-09-08 10:15
-tags: RECAP, Presentations
+date: "2009-09-08 10:15
+"tags: RECAP, Presentations
 slug: recaps-steve-schultze-at-the-gov-2-0-expo
 status: published
 ---

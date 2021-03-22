@@ -1,7 +1,7 @@
 ---
 title: Converting PDF Files to HTML
-date: 2010-02-06 13:34
-author: Michael Lissner
+date: "2010-02-06 13:34
+"author: Michael Lissner
 tags: CourtListener, PDF
 slug: converting-pdf-files-to-html
 status: published

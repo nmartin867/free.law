@@ -1,7 +1,7 @@
 ---
 title: All current bankruptcy and federal magistrate judges are now in CourtListener
-author: Author: Jon Ashley, Michael Lissner
-date: 2020-06-29
+author: "Author: Jon Ashley, Michael Lissner
+"date: 2020-06-29
 tags: judges, magistrate, bankruptcy
 ---
 

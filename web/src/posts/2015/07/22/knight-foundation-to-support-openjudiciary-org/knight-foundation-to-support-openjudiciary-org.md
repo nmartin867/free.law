@@ -1,7 +1,7 @@
 ---
 title: Knight Foundation to Support OpenJudiciary.org
-date: 2015-07-22 07:05
-author: Brian Carver
+date: "2015-07-22 07:05
+"author: Brian Carver
 tags: Announcements, Awards
 slug: knight-foundation-to-support-openjudiciary-org
 status: published

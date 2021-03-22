@@ -1,7 +1,7 @@
 ---
 title: Using PACER &mdash; What Could Possibly Go Wrong?
-date: 2014-08-26 13:45
-author: Brian Carver
+date: "2014-08-26 13:45
+"author: Brian Carver
 tags: CourtListener, Courts, Design, Policy, Presentations, RECAP, PACER
 slug: using-pacer-what-could-possibly-go-wrong
 status: published

@@ -1,7 +1,7 @@
 ---
 title: Postcards Arriving Soon
-date: 2015-05-28 14:36
-author: Brian Carver
+date: "2015-05-28 14:36
+"author: Brian Carver
 tags: Announcements, PACER, RECAP
 slug: postcards-arriving-soon
 status: published

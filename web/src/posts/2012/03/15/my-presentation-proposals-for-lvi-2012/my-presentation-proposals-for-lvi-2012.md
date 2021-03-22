@@ -1,7 +1,7 @@
 ---
 title: My Presentation Proposals for LVI 2012
-date: 2012-03-15 12:56
-author: Michael Lissner
+date: "2012-03-15 12:56
+"author: Michael Lissner
 tags: CourtListener, Juriscraper, LVI2012, Presentations, Proposals
 slug: my-presentation-proposals-for-lvi-2012
 status: published

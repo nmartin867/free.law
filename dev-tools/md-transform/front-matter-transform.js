@@ -1,31 +1,38 @@
 const glob = require('glob')
     , path = require('path')
     , colors = require('colors')
-    , { mkdir, readFile, writeFile } = require('fs/promises')
+    , minimist = require('minimist')
+    , { mkdir, readFile, writeFile, stat, rmdir } = require('fs/promises')
 
 const matchExp = /^([A-Z][a-z]*):\s(.*)$/gm
 const projectRoot = path.join(__dirname, '../../')
 const postContent = path.join(projectRoot, 'content')
 const postBase = path.join(projectRoot, '/web/src/posts')
 
-const writeStdOut = (message) => {
-    console.log(message.blue)
+
+const exists = async (filePath) => {
+    try {
+        await stat(filePath)
+        return true
+    } catch (err) {
+        return false
+    }
 }
 
-const getMarkdownFiles = () => (
+const getMarkdownFiles = (verbose) => (
     new Promise((resolve, reject) => {
         glob(`${postContent}/*.md`, (err, filePaths) => {
             if (err) reject(err)
-            writeStdOut(`importing ${filePaths.length} posts...`)
+            if(verbose) console.log(`importing ${filePaths.length} posts...`.blue)
             resolve(filePaths)
         })
     })
 )
 
-const formatFrontMatter = async (filePaths) => {
+const formatFrontMatter = async (filePaths, verbose) => {
     try {
         return await Promise.all(filePaths.map(async p => {
-            writeStdOut(`parsing front matter from ${p}...`)
+            if(verbose) console.log(`parsing front matter from ${p}...`.blue)
             const rawMd = await readFile(p, {encoding: 'utf8'})
             const content = rawMd.trim()
             let matchOffset = -1
@@ -63,9 +70,10 @@ const resolveFolder = (fm) => {
     return path.join(postBase, `${year}/${monthPart}/${dayPart}/${fm.slug}`)
 }
 
-const createPostFolders = async (frontArr) => {
+const createPostFolders = async (frontArr, verbose) => {
     try {
-        writeStdOut(`creating post folder structure...`)
+        if(!await exists(postBase)) await mkdir(postBase)
+        if(verbose) console.log(`creating post folder structure...`.blue)
         const dirs = frontArr.map(fm => resolveFolder(fm))
         await Promise.all(dirs.map(d => mkdir(d, {recursive: true})))
     } catch (err) {
@@ -74,17 +82,22 @@ const createPostFolders = async (frontArr) => {
     }
 }
 
-const writePosts = async (frontArr) => {
+const writePosts = async (frontArr, options) => {
     try {
         await Promise.all(frontArr.map(async fm => {
             let fileContent = "---\n"
             for(const p in fm){
                 if(p === 'content') continue
-                fileContent+= `${p}: ${fm[p]}\n`
+                fileContent+= `${p}: `
+                fileContent+= fm[p].includes(':') ? `"${fm[p]}\n"` : `${fm[p]}\n`
             }
             fileContent+= `---\n\r${fm.content}`
             const filePath = path.join(resolveFolder(fm), `${fm.slug}.md`)
-            writeStdOut(`creating ${filePath}...`)
+            if(!options.force && await fileEi(filePath)){
+                if(options.verbose) console.log(`skipping ${filePath}...`.blue)
+                return Promise.resolve()
+            }
+            if(options.verbose) console.log(`creating ${filePath}...`.blue)
             return await writeFile(filePath, fileContent, { encoding: 'utf8' })
         }))
     } catch (err) {
@@ -93,18 +106,53 @@ const writePosts = async (frontArr) => {
     }
 }
 
-const processMarkdown = async () => {
+const importMarkdown = async (options) => {
     try {
-        const filePaths = await getMarkdownFiles()
-        const fmArr = await formatFrontMatter(filePaths)
-        await createPostFolders(fmArr)
-        await writePosts(fmArr)
+        const filePaths = await getMarkdownFiles(options.verbose)
+        const fmArr = await formatFrontMatter(filePaths, options.verbose)
+        await createPostFolders(fmArr, options.verbose)
+        await writePosts(fmArr, options)
     } catch (err) {
         console.error(err)
         throw err
     }
 }
 
-processMarkdown()
-    .then(() => process.exit(0))
-    .catch(err => process.exit(1))
+const options = {
+    verbose: false,
+    v: false,
+    force: false,
+    f: false
+}
+const validOptions = Object.keys(options)
+
+const args = minimist(process.argv.slice(2), {
+    boolean: validOptions
+})
+
+if(args.length === 0) process.exit(1)
+for(const p in args) {
+    if(validOptions.indexOf(p) !== -1) options[p] = true
+}
+if(args._[0] === 'clean' || args._[0] === 'c'){
+    exists(postBase).then(e => {
+        if(!e) process.exit(0)
+        rmdir(postBase, { recursive: true })
+            .then(() => processs.exit(0))
+            .catch(err => {
+                console.error(err)
+                process.exit(1)
+            })
+    }).catch(err => {
+        console.error(err)
+        process.exit(1)
+    })
+}
+if(args._[0] === 'import' || args._[0] === 'i'){
+    importMarkdown(options)
+        .then(() => process.exit(0))
+        .catch(err => {
+            console.error(err)
+            process.exit(1)
+        })
+}

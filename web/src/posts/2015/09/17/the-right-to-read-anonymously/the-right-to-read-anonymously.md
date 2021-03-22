@@ -1,7 +1,7 @@
 ---
 title: The Right to Read Anonymously
-date: 2015-09-17 04:30
-author: Brian Carver
+date: "2015-09-17 04:30
+"author: Brian Carver
 tags: Agitation, Courts, PACER, Policy
 slug: the-right-to-read-anonymously
 status: published

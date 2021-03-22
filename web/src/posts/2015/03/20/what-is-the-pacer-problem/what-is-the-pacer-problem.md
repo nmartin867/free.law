@@ -1,7 +1,7 @@
 ---
 title: What is the "PACER Problem"?
-date: 2015-03-20 12:54
-author: Brian Carver
+date: "2015-03-20 12:54
+"author: Brian Carver
 tags: Agitation, Courts, PACER, Policy
 slug: what-is-the-pacer-problem
 status: published

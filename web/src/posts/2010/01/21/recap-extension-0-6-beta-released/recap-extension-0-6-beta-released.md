@@ -1,7 +1,7 @@
 ---
 title: RECAP Extension 0.6 Beta Released
-date: 2010-01-21 16:41
-tags: announcements, recap
+date: "2010-01-21 16:41
+"tags: announcements, recap
 slug: recap-extension-0-6-beta-released
 status: published
 ---

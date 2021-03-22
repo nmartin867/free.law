@@ -1,7 +1,7 @@
 ---
 title: Assessing PACER's Access Barriers
-date: 2010-08-17 15:54
-tags: Announcements, PACER
+date: "2010-08-17 15:54
+"tags: Announcements, PACER
 slug: assessing-pacers-access-barriers
 status: published
 leonard: “about 45% of PACER users also use CM/ECF,” the Courts’

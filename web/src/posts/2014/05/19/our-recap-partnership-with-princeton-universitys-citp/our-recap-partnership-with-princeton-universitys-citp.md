@@ -1,7 +1,7 @@
 ---
 title: Our RECAP partnership with Princeton University's CITP
-date: 2014-05-19 06:00
-author: Brian Carver
+date: "2014-05-19 06:00
+"author: Brian Carver
 tags: Announcements, Bulk Data, RECAP
 slug: our-recap-partnership-with-princeton-universitys-citp
 status: published

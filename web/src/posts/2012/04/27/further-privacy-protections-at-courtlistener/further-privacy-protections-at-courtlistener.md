@@ -1,7 +1,7 @@
 ---
 title: Further privacy protections at CourtListener
-date: 2012-04-27 12:54
-author: Michael Lissner
+date: "2012-04-27 12:54
+"author: Michael Lissner
 tags: CourtListener, Policy, Privacy, sitemaps.xml, Technology
 slug: further-privacy-protections-at-courtlistener
 status: published

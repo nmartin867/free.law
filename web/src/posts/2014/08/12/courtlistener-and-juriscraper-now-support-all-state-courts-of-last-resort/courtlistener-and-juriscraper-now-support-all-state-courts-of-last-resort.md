@@ -1,7 +1,7 @@
 ---
 title: CourtListener and Juriscraper Now Support All State Courts of Last Resort!
-date: 2014-08-12 04:56
-author: Michael Lissner
+date: "2014-08-12 04:56
+"author: Michael Lissner
 tags: Announcements, CourtListener, Juriscraper
 slug: courtlistener-and-juriscraper-now-support-all-state-courts-of-last-resort
 status: published

@@ -1,7 +1,7 @@
 ---
 title: A Note on RECAP's Commitment to Privacy
-date: 2009-08-20 15:07
-tags: Announcements, RECAP, Privacy
+date: "2009-08-20 15:07
+"tags: Announcements, RECAP, Privacy
 slug: a-note-on-recaps-commitment-to-privacy
 status: published
 ---

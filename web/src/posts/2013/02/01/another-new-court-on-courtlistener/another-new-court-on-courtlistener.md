@@ -1,7 +1,7 @@
 ---
 title: Another new court on CourtListener
-date: 2013-02-01 14:01
-author: Michael Lissner
+date: "2013-02-01 14:01
+"author: Michael Lissner
 tags: Announcements, Juriscraper
 slug: another-new-court-on-courtlistener
 status: published

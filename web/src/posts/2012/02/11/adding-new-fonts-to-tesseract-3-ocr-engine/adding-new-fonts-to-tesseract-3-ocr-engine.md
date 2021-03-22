@@ -1,7 +1,7 @@
 ---
 title: Adding New Fonts to Tesseract 3 OCR Engine
-date: 2012-02-11 13:01
-author: Michael Lissner
+date: "2012-02-11 13:01
+"author: Michael Lissner
 tags: CourtListener, Font, HowTo, OCR, Tesseract
 slug: adding-new-fonts-to-tesseract-3-ocr-engine
 status: published

@@ -1,7 +1,7 @@
 ---
 title: Welcoming Ansel Halliburton to our Board
-date: 2017-10-11 10:00
-author: The Board
+date: "2017-10-11 10:00
+"author: The Board
 tags: Announcements, Board of Directors
 ---
 

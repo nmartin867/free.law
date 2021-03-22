@@ -1,7 +1,7 @@
 ---
 title: The Blogosphere Weighs in on RECAP
-date: 2009-08-14 13:34
-tags: RECAP, Press
+date: "2009-08-14 13:34
+"tags: RECAP, Press
 slug: the-blogosphere-weighs-in-on-recap
 status: published
 ---

@@ -1,7 +1,7 @@
 ---
 title: Free Law Project Calls for License-Free Government Data
-date: 2013-12-12 15:17
-author: Brian Carver
+date: "2013-12-12 15:17
+"author: Brian Carver
 tags: Announcements, Policy
 slug: free-law-project-calls-for-license-free-government-data
 status: published

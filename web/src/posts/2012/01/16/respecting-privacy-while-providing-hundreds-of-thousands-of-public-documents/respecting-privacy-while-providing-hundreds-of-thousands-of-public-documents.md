@@ -1,7 +1,7 @@
 ---
 title: Respecting privacy while providing hundreds of thousands of public documents
-date: 2012-01-16 13:20
-author: Michael Lissner
+date: "2012-01-16 13:20
+"author: Michael Lissner
 tags: CourtListener, Policy, Practical Obscurity, Privacy, robots.txt, sitemaps.xml, x-robots-tag
 slug: respecting-privacy-while-providing-hundreds-of-thousands-of-public-documents
 status: published

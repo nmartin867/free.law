@@ -1,7 +1,7 @@
 ---
 title: Welcoming Thomas Bruce and Jerry Goldman to our Board
-date: 2015-07-23 07:51
-author: Michael Lissner
+date: "2015-07-23 07:51
+"author: Michael Lissner
 tags: Announcements, Board of Directors
 slug: welcoming-thomas-bruce-and-jerry-goldman-to-our-board
 status: published

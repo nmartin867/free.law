@@ -1,7 +1,7 @@
 ---
 title: Our New Citation Finder
-date: 2015-11-30 11:50
-author: Michael Lissner
+date: "2015-11-30 11:50
+"author: Michael Lissner
 tags: Announcements, Citator, CourtListener, Data Wrangling
 slug: our-new-citation-finder
 status: published

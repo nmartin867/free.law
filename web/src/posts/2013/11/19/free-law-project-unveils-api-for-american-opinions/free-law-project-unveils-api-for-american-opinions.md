@@ -1,7 +1,7 @@
 ---
 title: Free Law Project Unveils API for Court Opinions
-date: 2013-11-19 08:00
-author: Michael Lissner
+date: "2013-11-19 08:00
+"author: Michael Lissner
 tags: Announcements, API, Citator, CourtListener, Courts, Practical Obscurity, Search, Technology
 slug: free-law-project-unveils-api-for-american-opinions
 status: published

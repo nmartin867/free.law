@@ -1,7 +1,7 @@
 ---
 title: Free Law Project Adds More than 1.5M Opinions to its Collection Thanks to Data Donation
-date: 2013-10-30 07:00
-author: Michael Lissner
+date: "2013-10-30 07:00
+"author: Michael Lissner
 tags: Announcements, API, Bulk Data, Citator, CourtListener, Courts, Coverage, Data Wrangling
 status: published
 ---

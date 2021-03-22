@@ -1,7 +1,7 @@
 ---
 title: RECAP Featured in XRDS Magazine
-date: 2012-01-10 19:57
-tags: RECAP, Press
+date: "2012-01-10 19:57
+"tags: RECAP, Press
 slug: recap-featured-in-xrds-magazine
 status: published
 ---

@@ -1,6 +1,6 @@
 ---
-title: Tesla and Trump: The Top PACER Documents of 2018
-author: Michael Lissner
+title: "Tesla and Trump: The Top PACER Documents of 2018
+"author: Michael Lissner
 tags: PACER, RECAP Archive, Popularity Contest
 date: 2018-12-31
 ---

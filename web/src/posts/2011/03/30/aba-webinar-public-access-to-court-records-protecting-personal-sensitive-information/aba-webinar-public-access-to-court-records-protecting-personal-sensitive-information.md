@@ -1,7 +1,7 @@
 ---
-title: ABA Webinar: Public Access to Court Records - Protecting Personal Sensitive Information
-date: 2011-03-30 13:57
-tags: Announcements, presentations
+title: "ABA Webinar: Public Access to Court Records - Protecting Personal Sensitive Information
+"date: "2011-03-30 13:57
+"tags: Announcements, presentations
 slug: aba-webinar-public-access-to-court-records-protecting-personal-sensitive-information
 status: published
 ---

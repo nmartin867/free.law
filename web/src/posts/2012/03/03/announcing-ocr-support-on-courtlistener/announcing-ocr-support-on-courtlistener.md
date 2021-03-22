@@ -1,7 +1,7 @@
 ---
 title: Announcing OCR Support on CourtListener
-date: 2012-03-03 13:53
-author: Michael Lissner
+date: "2012-03-03 13:53
+"author: Michael Lissner
 tags: Announcements, CourtListener, OCR
 slug: announcing-ocr-support-on-courtlistener
 status: published

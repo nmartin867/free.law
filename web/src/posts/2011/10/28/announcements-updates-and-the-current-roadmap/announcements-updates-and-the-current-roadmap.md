@@ -1,7 +1,7 @@
 ---
 title: Announcements, Updates and the Current Roadmap
-date: 2011-10-28 13:47
-author: Michael Lissner
+date: "2011-10-28 13:47
+"author: Michael Lissner
 tags: Announcements, Bulk Data, Roadmap, Search
 slug: announcements-updates-and-the-current-roadmap
 status: published

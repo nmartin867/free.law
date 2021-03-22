@@ -1,7 +1,7 @@
 ---
 title: CiteGeist Powers CourtListener's Newly Improved Search Results
-date: 2013-11-12 08:00
-author: Michael Lissner
+date: "2013-11-12 08:00
+"author: Michael Lissner
 tags: Announcements, Bulk Data, Citator, CourtListener, Relevancy, Search
 slug: courtlistener-improves-search-results-thanks-to-volunteer-contributor
 status: published

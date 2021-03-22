@@ -1,7 +1,7 @@
 ---
 title: Work on RECAP for Google Summer of Code 2010
-date: 2010-03-26 15:51
-tags: Google, Google Summer of Code, RECAP
+date: "2010-03-26 15:51
+"tags: Google, Google Summer of Code, RECAP
 slug: work-on-recap-for-google-summer-of-code-2010
 status: published
 ---

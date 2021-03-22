@@ -1,7 +1,7 @@
 ---
 title: New tool for testing lxml XPath queries
-date: 2012-05-20 13:37
-author: Michael Lissner
+date: "2012-05-20 13:37
+"author: Michael Lissner
 tags: CourtListener, Juriscraper, XPath
 slug: new-tool-for-testing-lxml-xpath-queries
 status: published

@@ -1,7 +1,7 @@
 ---
 title: Support for x-robots-tag and robots HTML meta tag
-date: 2012-01-25 13:14
-author: Michael Lissner
+date: "2012-01-25 13:14
+"author: Michael Lissner
 tags: Privacy, robots.txt, Search, x-robots-tag
 slug: support-for-x-robots-tag-and-robots-html-meta-tag
 status: published

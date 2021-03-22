@@ -1,7 +1,7 @@
 ---
 title: Schultze on RECAP at Yale
-date: 2009-10-13 16:43
-tags: RECAP, Presentations
+date: "2009-10-13 16:43
+"tags: RECAP, Presentations
 slug: schultze-on-recap-at-yale
 status: published
 ---

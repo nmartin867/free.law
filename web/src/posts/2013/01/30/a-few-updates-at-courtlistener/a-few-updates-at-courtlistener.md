@@ -1,7 +1,7 @@
 ---
 title: A few updates at CourtListener
-date: 2013-01-30 13:57
-author: Michael Lissner
+date: "2013-01-30 13:57
+"author: Michael Lissner
 tags: Announcements, CourtListener, Juriscraper, Roadmap, Search, Technology
 slug: a-few-updates-at-courtlistener
 status: published

@@ -1,7 +1,7 @@
 ---
 title: RECAP in the Columbia Science and Technology Law Review
-date: 2009-12-08 09:15
-tags: RECAP, Press
+date: "2009-12-08 09:15
+"tags: RECAP, Press
 slug: recap-in-the-columbia-science-and-technology-law-review
 status: published
 ---

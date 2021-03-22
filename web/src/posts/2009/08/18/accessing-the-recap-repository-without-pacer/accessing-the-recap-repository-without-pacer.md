@@ -1,7 +1,7 @@
 ---
 title: Accessing the RECAP Repository without PACER
-date: 2009-08-18 11:43
-tags: Announcements, RECAP, archive.org, privacy
+date: "2009-08-18 11:43
+"tags: Announcements, RECAP, archive.org, privacy
 slug: accessing-the-recap-repository-without-pacer
 status: published
 ---

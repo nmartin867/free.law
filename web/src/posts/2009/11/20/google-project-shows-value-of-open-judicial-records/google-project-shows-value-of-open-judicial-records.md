@@ -1,7 +1,7 @@
 ---
 title: Google Project Shows Value of Open Judicial Records
-date: 2009-11-20 16:44
-tags: Google Scholar
+date: "2009-11-20 16:44
+"tags: Google Scholar
 slug: google-project-shows-value-of-open-judicial-records
 status: published
 ---

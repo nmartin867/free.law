@@ -1,7 +1,7 @@
 ---
 title: CourtListener is Now Integrated with the Supreme Court Database
-date: 2014-12-21 11:15
-author: Michael Lissner
+date: "2014-12-21 11:15
+"author: Michael Lissner
 tags: Announcements, API, Bulk Data, Citator, CourtListener, Data Wrangling, Supreme Court Database
 slug: courtlistener-is-now-integrated-with-the-supreme-court-database
 status: published

@@ -1,7 +1,7 @@
 ---
 title: AI and Law Call for Papers
-date: 2015-07-23 15:06
-author: Brian Carver
+date: "2015-07-23 15:06
+"author: Brian Carver
 tags: Announcements
 slug: ai_and_law_call_for_papers
 status: published

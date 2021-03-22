@@ -1,7 +1,7 @@
 ---
 title: Help Agitate to Open Up PACER
-date: 2015-01-21 06:00
-author: Michael Lissner
+date: "2015-01-21 06:00
+"author: Michael Lissner
 tags: Agitation, Announcements, PACER, Policy, RECAP
 slug: help-agitate-to-open-up-pacer
 status: published

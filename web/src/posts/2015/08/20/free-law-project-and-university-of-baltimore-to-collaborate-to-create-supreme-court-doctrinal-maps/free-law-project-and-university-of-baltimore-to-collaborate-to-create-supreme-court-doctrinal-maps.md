@@ -1,7 +1,7 @@
 ---
 title: Free Law Project and University of Baltimore to Collaborate to Create Supreme Court Doctrinal Maps
-date: 2015-08-20 13:11
-author: Brian Carver
+date: "2015-08-20 13:11
+"author: Brian Carver
 tags: Announcements, Awards, CourtListener
 slug: free-law-project-and-university-of-baltimore-to-collaborate-to-create-supreme-court-doctrinal-maps
 status: published

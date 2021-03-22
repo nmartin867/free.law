@@ -1,7 +1,7 @@
 ---
 title: An Effort to Define the Ideal "Law.gov"
-date: 2009-10-16 12:06
-tags: Announcements, Law.gov
+date: "2009-10-16 12:06
+"tags: Announcements, Law.gov
 slug: an-effort-to-define-the-ideal-law-gov
 status: published
 ---

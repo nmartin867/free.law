@@ -1,7 +1,7 @@
 ---
 title: The abolishment of the Emergency Court of Appeals (April 18, 1962)
-date: 2011-08-10 13:24
-author: Michael Lissner
+date: "2011-08-10 13:24
+"author: Michael Lissner
 tags: API, CourtListener, Courts, History
 slug: the-abolishment-of-the-emergency-court-of-appeals-april-18-1962
 status: published

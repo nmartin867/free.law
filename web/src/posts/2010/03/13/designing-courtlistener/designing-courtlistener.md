@@ -1,7 +1,7 @@
 ---
 title: Designing CourtListener
-date: 2010-03-13 13:32
-author: Michael Lissner
+date: "2010-03-13 13:32
+"author: Michael Lissner
 tags: CourtListener, Design
 slug: designing-courtlistener
 status: published

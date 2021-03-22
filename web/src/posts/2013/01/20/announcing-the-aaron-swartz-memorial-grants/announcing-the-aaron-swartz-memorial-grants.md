@@ -1,7 +1,7 @@
 ---
 title: Announcing the Aaron Swartz Memorial Grants
-date: 2013-01-20 14:23
-tags: Announcements, Aaron Swartz, Awards
+date: "2013-01-20 14:23
+"tags: Announcements, Aaron Swartz, Awards
 slug: announcing-the-aaron-swartz-memorial-grants
 status: published
 ---

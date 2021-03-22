@@ -1,7 +1,7 @@
 ---
-title: Announcing CourtListener's New Sub-Project: Juriscraper
-date: 2012-02-25 13:51
-author: Michael Lissner
+title: "Announcing CourtListener's New Sub-Project: Juriscraper
+"date: "2012-02-25 13:51
+"author: Michael Lissner
 tags: Announcements, Juriscraper
 slug: announcing-courtlisteners-new-sub-project-juriscraper
 status: published

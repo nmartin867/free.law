@@ -1,7 +1,7 @@
 ---
 title: More RECAP Events
-date: 2010-06-16 18:15
-tags: Presentations, Events
+date: "2010-06-16 18:15
+"tags: Presentations, Events
 slug: more-recap-events
 status: published
 ---

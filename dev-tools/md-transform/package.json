@@ -6,6 +6,8 @@
   "author": "Nick Martin",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.4.0"
+    "args": "^5.0.1",
+    "colors": "^1.4.0",
+    "minimist": "^1.2.5"
   }
 }

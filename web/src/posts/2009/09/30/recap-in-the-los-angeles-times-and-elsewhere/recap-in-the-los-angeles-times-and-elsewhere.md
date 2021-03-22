@@ -1,7 +1,7 @@
 ---
 title: RECAP in the Los Angeles Times and Elsewhere
-date: 2009-09-30 10:16
-tags: RECAP, Press
+date: "2009-09-30 10:16
+"tags: RECAP, Press
 slug: recap-in-the-los-angeles-times-and-elsewhere
 status: published
 ---

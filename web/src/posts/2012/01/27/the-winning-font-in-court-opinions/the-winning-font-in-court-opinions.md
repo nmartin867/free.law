@@ -1,7 +1,7 @@
 ---
 title: The Winning Font in Court Opinions
-date: 2012-01-27 13:10
-author: Michael Lissner
+date: "2012-01-27 13:10
+"author: Michael Lissner
 tags: CourtListener, Font, OCR, Tesseract, Typography
 slug: the-winning-font-in-court-opinions
 status: published

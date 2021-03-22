@@ -1,7 +1,7 @@
 ---
 title: Changes and Plans at CourtListener.com
-date: 2010-11-04 13:29
-author: Michael Lissner
+date: "2010-11-04 13:29
+"author: Michael Lissner
 tags: CourtListener, Web Architecture
 slug: changes-and-plans-at-courtlistener-com
 status: published

@@ -1,7 +1,7 @@
 ---
 title: A few small API changes
-date: 2013-06-19 14:04
-author: Michael Lissner
+date: "2013-06-19 14:04
+"author: Michael Lissner
 tags: API, Bulk Data, XPath
 slug: a-few-small-api-changes
 status: published

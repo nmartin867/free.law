@@ -1,7 +1,7 @@
 ---
 title: Free Law Project Founders Guests on "This Week in Law" Webcast
-date: 2014-09-14 20:58
-author: Michael Lissner
+date: "2014-09-14 20:58
+"author: Michael Lissner
 tags: CourtListener, Juriscraper, RECAP, Video
 slug: free-law-project-founders-guests-on-this-week-in-law-webcast
 status: published

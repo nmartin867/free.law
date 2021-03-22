@@ -1,7 +1,7 @@
 ---
 title: RECAP in the Wall Street Journal
-date: 2009-08-21 08:51
-tags: RECAP, Press
+date: "2009-08-21 08:51
+"tags: RECAP, Press
 slug: recap-in-the-wall-street-journal
 status: published
 ---

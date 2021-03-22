@@ -1,7 +1,7 @@
 ---
 title: New PACER Fee Data, RECAP Appearances This Week
-date: 2010-06-14 12:23
-tags: RECAP, PACER
+date: "2010-06-14 12:23
+"tags: RECAP, PACER
 slug: new-pacer-fee-data-recap-appearances-this-week
 status: published
 ---

@@ -13,6 +13,7 @@ const IndexPage = () => (
     <Layout>
         <BodyContent>
             Stuff will be here; which is sweet.
+            <Link to="/archives">archives</Link>
         </BodyContent>
     </Layout>
 )

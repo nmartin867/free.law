@@ -1,7 +1,7 @@
 ---
 title: LVI 2014 Call for Abstracts
-date: 2014-03-20 06:25
-author: Brian Carver
+date: "2014-03-20 06:25
+"author: Brian Carver
 tags: Announcements
 slug: lvi-2014-call-for-abstracts
 status: published

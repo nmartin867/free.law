@@ -1,7 +1,7 @@
 ---
 title: Presentation on Juriscraper and CourtListener for LVI2012
-date: 2012-10-09 13:34
-author: Michael Lissner
+date: "2012-10-09 13:34
+"author: Michael Lissner
 tags: CourtListener, Juriscraper, LVI2012
 slug: presentation-on-juriscraper-and-courtlistener-for-lvi2012
 status: published

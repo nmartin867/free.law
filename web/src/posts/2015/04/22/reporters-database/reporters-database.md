@@ -1,7 +1,7 @@
 ---
 title: Reporters Database
-date: 2015-04-22 14:35
-author: Michael Lissner
+date: "2015-04-22 14:35
+"author: Michael Lissner
 tags: Announcements, Bulk Data, Citator, CourtListener, Data Wrangling
 slug: reporters-database
 status: published

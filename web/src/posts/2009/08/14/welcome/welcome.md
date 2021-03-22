@@ -1,7 +1,7 @@
 ---
 title: Turning PACER Around
-date: 2009-08-14 00:01
-tags: RECAP, PACER, Announcements
+date: "2009-08-14 00:01
+"tags: RECAP, PACER, Announcements
 slug: welcome
 status: published
 ---

@@ -1,7 +1,7 @@
 ---
 title: RECAP in Minnesota Lawyer
-date: 2009-11-09 17:16
-tags: RECAP, Press
+date: "2009-11-09 17:16
+"tags: RECAP, Press
 slug: recap-in-minnesota-lawyer
 status: published
 ---

@@ -1,7 +1,7 @@
 ---
 title: Announcing the third series of the Federal Reporter!
-date: 2012-05-13 13:56
-author: Michael Lissner
+date: "2012-05-13 13:56
+"author: Michael Lissner
 tags: Announcements, Bulk Data, CourtListener, Data Wrangling
 slug: announcing-the-third-series-of-the-federal-reporter
 status: published

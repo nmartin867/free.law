@@ -1,7 +1,7 @@
 ---
 title: More Oral Argument News
-date: 2014-11-09 23:59
-author: Michael Lissner
+date: "2014-11-09 23:59
+"author: Michael Lissner
 tags: Announcements, Oral Arguments
 slug: more-oral-argument-news
 status: published

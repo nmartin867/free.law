@@ -1,6 +1,6 @@
 ---
-title: Milestone: CourtListener has 365 Days of Continuous Oral Argument Listening
-author: Michael Lissner
+title: "Milestone: CourtListener has 365 Days of Continuous Oral Argument Listening
+"author: Michael Lissner
 date: 2016-06-08
 tags: courtlistener, oral arguments, milestones
 ---

@@ -1,7 +1,7 @@
 ---
 title: RECAP, The Press, and Judicial Transparency
-date: 2010-04-30 13:08
-tags: RECAP, Press, Transparency
+date: "2010-04-30 13:08
+"tags: RECAP, Press, Transparency
 slug: recap-the-press-and-judicial-transparency
 status: published
 ---

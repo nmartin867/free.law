@@ -1,7 +1,7 @@
 ---
 title: Two RECAP Grants Awarded in Memory of Aaron Swartz
-date: 2013-04-02 01:41
-author: citp
+date: "2013-04-02 01:41
+"author: citp
 tags: Grants, RECAP, Aaron Swartz
 slug: two-recap-grants-awarded-in-memory-of-aaron-swartz
 status: published

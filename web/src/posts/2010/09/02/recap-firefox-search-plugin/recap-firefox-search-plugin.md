@@ -1,7 +1,7 @@
 ---
 title: RECAP Firefox Search Plugin
-date: 2010-09-02 22:48
-tags: RECAP, Extensions
+date: "2010-09-02 22:48
+"tags: RECAP, Extensions
 slug: recap-firefox-search-plugin
 status: published
 ---

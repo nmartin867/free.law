@@ -1,7 +1,7 @@
 ---
 title: New Juriscraper Email List
-date: 2015-08-27 06:43
-author: Michael Lissner
+date: "2015-08-27 06:43
+"author: Michael Lissner
 tags: Juriscraper
 slug: new-juriscraper-email-list
 status: published

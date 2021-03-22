@@ -1,7 +1,7 @@
 ---
 title: Announcing CourtListener.com
-date: 2010-05-01 13:30
-author: Michael Lissner
+date: "2010-05-01 13:30
+"author: Michael Lissner
 tags: Announcements, CourtListener
 slug: announcing-courtlistener-com
 status: published

@@ -1,7 +1,7 @@
 ---
 title: Announcing Oral Arguments on CourtListener
-date: 2014-10-31 08:22
-author: Michael Lissner
+date: "2014-10-31 08:22
+"author: Michael Lissner
 tags: Announcements, API, Bulk Data, CourtListener, Coverage, Juriscraper, Oral Arguments
 status: published
 ---

@@ -1,7 +1,7 @@
 ---
 title: New Search and Browsing Interface for the RECAP Archive
-date: 2010-08-03 09:00
-tags: RECAP Archive, RECAP
+date: "2010-08-03 09:00
+"tags: RECAP Archive, RECAP
 slug: new-search-and-browsing-interface-for-the-recap-archive
 status: published
 ---

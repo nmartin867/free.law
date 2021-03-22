@@ -1,6 +1,6 @@
 ---
-title: Our Newest Launch: A SCOTUS Data Viz Tool
-author: Michael Lissner
+title: "Our Newest Launch: A SCOTUS Data Viz Tool
+"author: Michael Lissner
 date: 2016-02-22
 tags: visualization, scotus, scdb, University of Baltimore
 ---
