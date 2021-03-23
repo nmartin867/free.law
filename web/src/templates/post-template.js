@@ -1,9 +1,8 @@
 import React from 'react'
 import {graphql} from 'gatsby'
 
-const PostTemplate = ({markdown}) => {
-    const {markdownRemark} = markdown
-    const {frontmatter, html} = markdownRemark
+export default function postTemplate(post){
+    const {markdownRemark: {frontmatter, html}} = post.data
     return (
         <div className="blog-post-container">
             <div className="blog-post">

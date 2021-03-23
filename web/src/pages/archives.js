@@ -9,3 +9,5 @@ const Archives = () => (
         </div>
     </Layout>
 )
+
+export default Archives

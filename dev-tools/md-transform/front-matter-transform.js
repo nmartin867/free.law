@@ -88,12 +88,11 @@ const writePosts = async (frontArr, options) => {
             let fileContent = "---\n"
             for(const p in fm){
                 if(p === 'content') continue
-                fileContent+= `${p}: `
-                fileContent+= fm[p].includes(':') ? `"${fm[p]}\n"` : `${fm[p]}\n`
+                fileContent+= `${p}: "${fm[p].replace(/"/g, '\\"')}"\n`
             }
             fileContent+= `---\n\r${fm.content}`
-            const filePath = path.join(resolveFolder(fm), `${fm.slug}.md`)
-            if(!options.force && await fileEi(filePath)){
+            const filePath = path.join(postBase, `${fm.slug}.md`)
+            if(!options.force && await exists(filePath)){
                 if(options.verbose) console.log(`skipping ${filePath}...`.blue)
                 return Promise.resolve()
             }
@@ -110,7 +109,6 @@ const importMarkdown = async (options) => {
     try {
         const filePaths = await getMarkdownFiles(options.verbose)
         const fmArr = await formatFrontMatter(filePaths, options.verbose)
-        await createPostFolders(fmArr, options.verbose)
         await writePosts(fmArr, options)
     } catch (err) {
         console.error(err)
